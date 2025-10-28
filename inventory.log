@@ -1,0 +1,40 @@
+2025-10-28 14:17:54,900 - WARNING - File inventory.json not found. Starting fresh.
+2025-10-28 14:17:54,900 - INFO - Added 10 of apple
+2025-10-28 14:17:54,901 - INFO - Added 2 of banana
+2025-10-28 14:17:54,901 - INFO - Added 6 of orange
+2025-10-28 14:17:54,901 - INFO - Removed 3 of apple
+2025-10-28 14:17:54,901 - INFO - Removed orange completely from stock.
+2025-10-28 14:17:54,901 - INFO - Inventory data saved successfully.
+2025-10-28 14:17:54,901 - INFO - Inventory data loaded successfully.
+2025-10-28 14:19:54,350 - INFO - Inventory data loaded successfully.
+2025-10-28 14:19:54,351 - INFO - Added 10 of apple
+2025-10-28 14:19:54,351 - INFO - Added 2 of banana
+2025-10-28 14:19:54,351 - INFO - Added 6 of orange
+2025-10-28 14:19:54,351 - INFO - Removed 3 of apple
+2025-10-28 14:19:54,351 - INFO - Removed orange completely from stock.
+2025-10-28 14:19:54,351 - INFO - Inventory data saved successfully.
+2025-10-28 14:19:54,351 - INFO - Inventory data loaded successfully.
+2025-10-28 14:22:10,188 - INFO - Inventory data loaded successfully.
+2025-10-28 14:22:10,188 - INFO - Added 10 of apple
+2025-10-28 14:22:10,188 - INFO - Added 2 of banana
+2025-10-28 14:22:10,188 - INFO - Added 6 of orange
+2025-10-28 14:22:10,188 - INFO - Removed 3 of apple
+2025-10-28 14:22:10,188 - INFO - Removed orange completely from stock.
+2025-10-28 14:22:10,189 - INFO - Inventory data saved successfully.
+2025-10-28 14:22:10,189 - INFO - Inventory data loaded successfully.
+2025-10-28 14:25:53,234 - INFO - Inventory data loaded successfully.
+2025-10-28 14:25:53,235 - INFO - Added 10 of apple
+2025-10-28 14:25:53,235 - INFO - Added 2 of banana
+2025-10-28 14:25:53,235 - INFO - Added 6 of orange
+2025-10-28 14:25:53,235 - INFO - Removed 3 of apple
+2025-10-28 14:25:53,235 - INFO - Removed orange completely from stock.
+2025-10-28 14:25:53,235 - INFO - Inventory data saved successfully.
+2025-10-28 14:25:53,235 - INFO - Inventory data loaded successfully.
+2025-10-28 14:26:43,250 - INFO - Inventory data loaded successfully.
+2025-10-28 14:26:43,250 - INFO - Added 10 of apple
+2025-10-28 14:26:43,250 - INFO - Added 2 of banana
+2025-10-28 14:26:43,250 - INFO - Added 6 of orange
+2025-10-28 14:26:43,251 - INFO - Removed 3 of apple
+2025-10-28 14:26:43,251 - INFO - Removed orange completely from stock.
+2025-10-28 14:26:43,251 - INFO - Inventory data saved successfully.
+2025-10-28 14:26:43,251 - INFO - Inventory data loaded successfully.
