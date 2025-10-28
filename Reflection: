@@ -1,0 +1,21 @@
+Reflection:
+
+1: Which issues were the easiest to fix, and which were the hardest? Why?
+•	Easiest: Minor style issues like missing whitespace, line length violations, and adding type hints or docstrings were straightforward.
+•	Hardest: Security warnings from Bandit (e.g., safe use of ast.literal_eval) and certain pylint warnings like “too-few-public-methods” required more careful thought and understanding of the code context.
+
+2: Did the static analysis tools report any false positives? If so, describe one example.
+•	Pylint flagged print statements in the main() function as potential issues, even though they were intended for demonstration purposes.
+•	Bandit reported potential issues with ast.literal_eval, even though it was safely used on controlled input.
+
+3: How would you integrate static analysis tools into your actual software development workflow?
+•	Local development: Run pylint and flake8 before commits; use Bandit to check for security issues.
+•	Continuous Integration (CI): Integrate these tools into CI pipelines so that pull requests are automatically analyzed for style, errors, and security vulnerabilities.
+•	Configure the CI to fail builds or block merges if critical issues are found to maintain high code quality.
+
+4: What tangible improvements did you observe in the code quality, readability, or potential robustness after applying the fixes?
+•	Code formatting and consistency improved, making it easier to read.
+•	Type hints and docstrings increased clarity and understanding of the code.
+•	Structured logging and proper error handling improved robustness and traceability.
+•	Overall, the code became more maintainable, readable, and safer against potential runtime or security issues.
+
